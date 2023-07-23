@@ -1,0 +1,239 @@
+{
+    "ProductList": [
+        {
+            "CategoryName": "Fruits and Vegetables",
+            "Info": "Lorem ipsum diord sit amit, \nsjjrk aosjet constectia adiposim sot",
+            "CategoryImage": "Assets/categoriePictures/fruitsVeg.png",
+            "Products":[
+                {
+                    "name":"Broccoli flower",
+                    "pid":101,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                },
+                {
+                    "name":"Pomegranate",
+                    "pid":102,
+                    "oldPrice":300,
+                    "price":250,
+                    "productImage":"Assets/fruitsVegPics/pom.png"
+                },
+                {
+                    "name":"Green Apple",
+                    "pid":103,
+                    "oldPrice":200,
+                    "price":160,
+                    "productImage":"Assets/fruitsVegPics/apple.png"
+                },
+                {
+                    "name":"Green Capsicum",
+                    "pid":104,
+                    "oldPrice":160,
+                    "price":150,
+                    "productImage":"Assets/fruitsVegPics/cap.png"
+                },
+                {
+                    "name":"Red Capsicum",
+                    "pid":105,
+                    "oldPrice":200,
+                    "price":160,
+                    "productImage":"Assets/fruitsVegPics/redCap.png"
+                },
+                {
+                    "name":"Capsicum",
+                    "pid":106,
+                    "oldPrice":160,
+                    "price":150,
+                    "productImage":"Assets/fruitsVegPics/yellowCap.png"
+                },
+                {
+                    "name":"Broccoli flower",
+                    "pid":107,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                },
+                {
+                    "name":"Pomegranate",
+                    "pid":108,
+                    "oldPrice":300,
+                    "price":250,
+                    "productImage":"Assets/fruitsVegPics/pom.png"
+                },
+                {
+                    "name":"Green Apple",
+                    "pid":109,
+                    "oldPrice":200,
+                    "price":160,
+                    "productImage":"Assets/fruitsVegPics/apple.png"
+                },
+                {
+                    "name":"Green Capsicum",
+                    "pid":110,
+                    "oldPrice":160,
+                    "price":150,
+                    "productImage":"Assets/fruitsVegPics/cap.png"
+                },
+                {
+                    "name":"Red Capsicum",
+                    "pid":111,
+                    "oldPrice":200,
+                    "price":160,
+                    "productImage":"Assets/fruitsVegPics/redCap.png"
+                },
+                {
+                    "name":"Capsicum",
+                    "pid":112,
+                    "oldPrice":160,
+                    "price":150,
+                    "productImage":"Assets/fruitsVegPics/yellowCap.png"
+                },
+                {
+                    "name":"Broccoli flower",
+                    "pid":113,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                },
+                {
+                    "name":"Pomegranate",
+                    "pid":114,
+                    "oldPrice":300,
+                    "price":250,
+                    "productImage":"Assets/fruitsVegPics/pom.png"
+                },
+                {
+                    "name":"Green Apple",
+                    "pid":115,
+                    "oldPrice":200,
+                    "price":160,
+                    "productImage":"Assets/fruitsVegPics/apple.png"
+                },
+                {
+                    "name":"Green Capsicum",
+                    "pid":116,
+                    "oldPrice":160,
+                    "price":150,
+                    "productImage":"Assets/fruitsVegPics/cap.png"
+                },
+                {
+                    "name":"Red Capsicum",
+                    "pid":117,
+                    "oldPrice":200,
+                    "price":160,
+                    "productImage":"Assets/fruitsVegPics/redCap.png"
+                },
+                {
+                    "name":"Capsicum",
+                    "pid":118,
+                    "oldPrice":160,
+                    "price":150,
+                    "productImage":"Assets/fruitsVegPics/yellowCap.png"
+                },
+                {
+                    "name":"Broccoli flower",
+                    "pid":119,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                },
+                {
+                    "name":"Pomegranate",
+                    "pid":120,
+                    "oldPrice":300,
+                    "price":250,
+                    "productImage":"Assets/fruitsVegPics/pom.png"
+                },
+                {
+                    "name":"Green Apple",
+                    "pid":121,
+                    "oldPrice":200,
+                    "price":160,
+                    "productImage":"Assets/fruitsVegPics/apple.png"
+                },
+                {
+                    "name":"Green Capsicum",
+                    "pid":122,
+                    "oldPrice":160,
+                    "price":150,
+                    "productImage":"Assets/fruitsVegPics/cap.png"
+                },
+                {
+                    "name":"Red Capsicum",
+                    "pid":123,
+                    "oldPrice":200,
+                    "price":160,
+                    "productImage":"Assets/fruitsVegPics/redCap.png"
+                },
+                {
+                    "name":"Capsicum",
+                    "pid":124,
+                    "oldPrice":160,
+                    "price":150,
+                    "productImage":"Assets/fruitsVegPics/yellowCap.png"
+                },{
+                    "name":"Broccoli flower",
+                    "pid":125,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                }
+                
+            ]
+        },
+        {
+            "CategoryName": "Grocery and Staples",
+            "Info": "Lorem ipsum diord sit amit, \nsjjrk aosjet constectia adiposim sot",
+            "CategoryImage": "Assets/categoriePictures/grocerie.png",
+            "Products":[
+                {
+                    "name":"Broccoli flower",
+                    "pid":101,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                }]
+        },
+        {
+            "CategoryName": "Household Needs",
+            "Info": "Lorem ipsum diord sit amit, \nsjjrk aosjet constectia adiposim sot",
+            "CategoryImage": "Assets/categoriePictures/houseHold.png",
+            "Products":[
+                {
+                    "name":"Broccoli flower",
+                    "pid":101,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                }]
+        },
+        {
+            "CategoryName": "Mans and Womens Wear",
+            "Info": "Lorem ipsum diord sit amit, \nsjjrk aosjet constectia adiposim sot",
+            "CategoryImage": "Assets/categoriePictures/mensWomensWear.png",
+            "Products":[
+                {
+                    "name":"Broccoli flower",
+                    "pid":101,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                }]
+        },
+        {
+            "CategoryName": "Foot Ware",
+            "Info": "Lorem ipsum diord sit amit, \nsjjrk aosjet constectia adiposim sot",
+            "CategoryImage": "Assets/categoriePictures/footWare.png",
+            "Products":[
+                {
+                    "name":"Broccoli flower",
+                    "pid":101,
+                    "oldPrice":60,
+                    "price":60,
+                    "productImage":"Assets/fruitsVegPics/broccoli.png"
+                }]
+        }
+
+    ]
+}
